@@ -1,0 +1,16 @@
+#t1{
+    padding-bottom: 100px;
+}
+#b1,#b2{
+    padding-left: 20px;
+    padding-right: 20px;
+    align-items: center;
+}
+/* #b2:focus{
+    padding-bottom: 100px;
+
+} */
+#v1:focus{
+    padding: 1000px;
+
+}
